@@ -11,7 +11,7 @@ ExceptionTest
     
     Q1: What is the knowledge point of the test? Where is the official document to the knowledge point?
     
-    A1: To learn more about and the creation of customized exceptions, the behavior of try - catch - block, the hierarchy of closing the exception classes, and also learning how to access the stack frame.
+    A1: To learn more about and the creation of customized exceptions, the behavior of try - catch - block, the hierarchy of closing the exception classes, and also learning how to access the stack frame. https://www.edureka.co/blog/java-exception-handling
 
     Q2: Why the test failed at first?
     
@@ -53,7 +53,7 @@ InheritanceTest
 
     Q1: What is the knowledge point of the test? Where is the official document to the knowledge point?
     
-    A1: To learn more about the initialization of classes and its parent/child classes and also how they inherit methods & constructors from the parent class. To learn about the behavior of overridden methods, and how an object is an instance of its parent class and the classes above its hierarchy.
+    A1: To learn more about the initialization of classes and its parent/child classes and also how they inherit methods & constructors from the parent class. To learn about the behavior of overridden methods, and how an object is an instance of its parent class and the classes above its hierarchy. https://www.edureka.co/blog/inheritance-in-java/
     
     Q2: Why the test failed at first?
     
@@ -93,7 +93,7 @@ ObjectTest
     
     Q1: What is the knowledge point of the test? Where is the official document to the knowledge point?
     
-    A1: To learn more about referencing an object, the default values of primitive types and objects, the hierarchical initialization order of Field -> Block Statements -> Constructors Arguments -> Default Constructor. Multiple constructors and methods, having the concept of Polymorphism.
+    A1: To learn more about referencing an object, the default values of primitive types and objects, the hierarchical initialization order of Field -> Block Statements -> Constructors Arguments -> Default Constructor. Multiple constructors and methods, having the concept of Polymorphism. https://www.edureka.co/blog/java-objects-and-classes/ & https://www.edureka.co/blog/java-object/
 
     Q2: Why the test failed at first?
     
