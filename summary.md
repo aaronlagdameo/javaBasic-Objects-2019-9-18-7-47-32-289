@@ -15,7 +15,7 @@ ExceptionTest
 
     Q2: Why the test failed at first?
     
-    A2: Because the expected values are not set.
+    A2: Because the expected values are not set. The Classes are not Implemented
 
     Q3: Why you corrected the test that way?
     
@@ -57,7 +57,7 @@ InheritanceTest
     
     Q2: Why the test failed at first?
     
-    A2: Because the expected values are not set.
+    A2: Because the expected values are not set. The Classes are not Implemented
 
     Q3: Why you corrected the test that way?
     
@@ -97,7 +97,7 @@ ObjectTest
 
     Q2: Why the test failed at first?
     
-    A2: Because the expected values are not set.
+    A2: Because the expected values are not set. The Classes are not Implemented
 
     Q3: Why you corrected the test that way?
     
